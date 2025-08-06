@@ -20,7 +20,7 @@ jobs:
 
     name: Build OpenWrt Firmware
 
-    runs-on: self-hosted
+    runs-on: self-hosted-120
 
     steps:
       - name: Space cleanup and Initialization environment
